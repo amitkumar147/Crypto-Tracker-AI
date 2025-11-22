@@ -11,10 +11,8 @@ Built with ❤️ by **Raghav**.
 ---
 
 ## 🌐 Live Demo  
-🔗 **Live Website:** *(add GitHub Pages link here after hosting)*  
-Example:
+🔗 **Live Website:** *(https://amitkumar147.github.io/Crypto-Sentiment-Tracker-AI)*  
 
-https://your-username.github.io/crypto-tracker/
 
 ---
 
