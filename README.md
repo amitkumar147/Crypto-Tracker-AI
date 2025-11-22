@@ -1,4 +1,4 @@
-# Crypto-Tracker-AI
+# Crypto-Sentiment-Tracker-AI
 
 # 🚀 Premium Multi-Crypto Live Price Tracker  
 ### **BTC • ETH • SOL Real-Time Dashboard**
