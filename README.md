@@ -70,7 +70,7 @@ crypto-tracker │── index.html │── style.css (optional) │── ass
 
 1. Clone the repo:
 
-git clone https://github.com/your-amitkumar147/crypto-sentiment-tracker-ai
+git clone https:https://github.com/amitkumar147/Crypto-Sentiment-Tracker-AI.git
 
 2. Open file:
 
